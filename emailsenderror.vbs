@@ -1,0 +1,1 @@
+x=msgbox("This will not work on machines without Powershell and with Powershell 1.0","48","Warning")
